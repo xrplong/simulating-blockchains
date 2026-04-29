@@ -4,11 +4,9 @@ We simulate consensus mining blockchains with propagation delay.
 
 
 # **README.md draft**
-The Abelian Sandpile Model is the common name for the original Bak-Tang-Wiesenfeld Model which was the first discovered example of a system to display Self-Organized Criticality. The Abelian Sandpile Model attempts to predict and model avalanches within a sandpile. This model was first introduced in a 1987 paper by Bak, Tang, Wisenfeld. Since then many extension of the model have been built and much research has gone into understanding the statistics of the model.
+Describe the CTMC blockchain model
 
-To learn more about The Abelian Sandpile Model and Self-Organized Criticality please see the oringial 1987 scientific paper, *Self-Organized Criticality* by Bak, Tang, Weisenfeld.
-
-[1987 Bak, Tang, Wiesenfeld.](http://www.chialvo.net/Curso/Cordoba2005/ClasesPowerpoints/Presentacion9/PapersClase9/soc2.pdf)
+[1987 Bak, Tang, Wiesenfeld.](link_to_arxiv_paper)
 ___
 
 # **About this code**
